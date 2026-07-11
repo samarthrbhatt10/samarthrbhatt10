@@ -1,12 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0b2e,4B0082,8A2BE2&height=250&section=header&text=Samarth%20Bhatt&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a0b2e,4B0082,8A2BE2&height=200&section=header&text=Samarth%20Bhatt&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=55&descSize=20" width="100%" alt="Header" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Full-Stack+Product+Engineer;AI+%26+Machine+Learning+Developer;Architecting+Scalable+Solutions;Enterprise-Grade+Engineering" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=Full-Stack+Product+Engineer;Architecting+Scalable+Solutions;AI+%26+Machine+Learning;Enterprise-Grade+Engineering" alt="Typing SVG" />
+</div>
 
-  <br />
-
+<p align="center">
   <img src="https://img.shields.io/badge/MCA-GLS_University-4B0082?style=for-the-badge&logo=probot&logoColor=white" alt="Academic" />
   <img src="https://img.shields.io/badge/Location-Ahmedabad,_India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://linkedin.com/in/samarthrbhatt10"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:samarthrbhatt10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samarthrbhatt10&label=Profile%20Views&color=9370DB&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/samarthrbhatt10?label=Followers&style=flat-square&color=4B0082" alt="Followers" />
+</p>
+
+---
+
+## 👨‍💻 System Architecture & Focus
+
+I am a Software Engineer and Product Developer specializing in rigorous system architecture and intelligent automation. My engineering mindset is focused on subtractive design—eliminating bloat to create highly performant, secure, and resilient web platforms.
+
+- 🔭 **Full Stack Engineering:** Architecting MERN and PHP (MVC) systems optimized for zero-lag state management and compound database indexing.
+- 🧠 **AI/ML Integration:** Designing multi-agent pipelines, deploying generative AI tools (Gemini API, Vertex AI), and building autonomous workflows.
+- ⚙️ **Product Mindset:** Managing end-to-end lifecycles from logical schema design to cloud deployment with strict XSS prevention and CI/CD reliability.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,python,php,react,nextjs,nodejs,express,mysql,mongodb,firebase,gcp,git" alt="Tech Stack" /></a>
+</p>
+
+---
+
+## 🚀 Production Deployments
+
+<details>
+  <summary><b>🎮 Debug Dungeon</b> (MERN Full-Stack Infrastructure)</summary>
+  <br />
+  A gamified debugging platform where users diagnose and patch real code challenges inside a Monaco-powered IDE. Built with custom JWT-authenticated socket middleware for real-time live notifications and compound MongoDB indexing.
+  <br /><br />
+  <b>Stack:</b> React 19, Express, MongoDB, Socket.io, Tailwind CSS
+</details>
+
+<details>
+  <summary><b>🍃 CarbonZero</b> (Serverless AI Carbon Tracker)</summary>
+  <br />
+  A live carbon footprint tracking application utilizing IPCC emission coefficients. Features an event-driven serverless Firestore architecture, DOMPurify XSS prevention, and context-aware Gemini API integration.
+  <br /><br />
+  <b>Stack:</b> React 19, Firebase Auth/Firestore, Gemini API, Chart.js
+</details>
+
+<details>
+  <summary><b>📅 Exam Schedule Generator</b> (MVC Architectural System)</summary>
+  <br />
+  An automated university-grade application generating conflict-free schedules. Optimized database queries handle SQLite-to-MySQL migration edge cases natively while enforcing published-run immutability via CASCADE-to-RESTRICT constraints.
+  <br /><br />
+  <b>Stack:</b> PHP 8.2, MySQL 8, Bootstrap 5
+</details>
+
+---
+
+## 📊 Live Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthrbhatt10&show_icons=true&theme=react&hide_border=true&title_color=9370DB&icon_color=8A2BE2&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthrbhatt10&layout=compact&theme=react&hide_border=true&title_color=9370DB&icon_color=8A2BE2&bg_color=0d1117" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthrbhatt10&theme=react-dark&color=8A2BE2&line=9370DB&point=ffffff&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🎯 Current Operational Status
+
+```yaml
+Status:
+  Learning: "Advanced Vector Databases, Multi-Modal LLM Fine-Tuning"
+  Building: "Autonomous agent infrastructure & highly concurrent backends"
+  Exploring: "High-performance compute edge cases in Node.js"
+  Open_To: "SDE Roles, Web Engineering, Machine Learning Pipelines"
   <a href="https://github.com/samarthrbhatt10"><img src="https://img.shields.io/badge/Portfolio-Active-4B0082?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/samarthrbhatt10"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:samarthrbhatt10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
