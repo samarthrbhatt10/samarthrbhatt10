@@ -81,7 +81,6 @@ I am a Software Engineer and Product Developer specializing in rigorous system a
 
 ## 🎯 Current Operational Status
 
-```yaml
 Status:
   Learning: "Advanced Vector Databases, Multi-Modal LLM Fine-Tuning"
   Building: "Autonomous agent infrastructure & highly concurrent backends"
