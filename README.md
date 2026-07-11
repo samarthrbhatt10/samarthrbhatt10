@@ -292,12 +292,14 @@ Current_Status:
   Exploring: "High-performance compute edge cases in Node.js"
   Open_To: "SDE I / SDE II roles, Web Engineering, Machine Learning Pipelines"
 div align="center">
+
+## Connect With Me
 <a href="mailto:samarthrbhatt10@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://linkedin.com/in/samarthrbhatt10"><img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/samarthrbhatt10"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/samarthrbhatt10"><img src="https://img.shields.io/badge/Portfolio-View_Work-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
-## Connect With Me
+
 <div align="center">
 <i>"True elegance in engineering is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
 <br /><br />
