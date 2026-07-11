@@ -1,16 +1,76 @@
 <div align="center">
-  <h2><kbd>&nbsp;SYS.DASHBOARD&nbsp;</kbd> :: <kbd>&nbsp;v2.0.26&nbsp;</kbd></h2>
-  <p><code>[ STATUS: ONLINE ] | [ ROOT_ACCESS: SAMARTH_BHATT ] | [ REGION: AHMEDABAD_IND ]</code></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&pause=2000&color=8B949E&center=true&vCenter=true&width=600&lines=Initializing+architecture+overview...;Loading+full-stack+deployments...;Mounting+AI+automation+pipelines...;Welcome+to+the+command+center." alt="Terminal Output" />
+  <br>
+  <h2><kbd>CONSOLE_ // SYSTEM_ARCHITECTURE</kbd></h2>
+  <p><i>Command center for full-stack infrastructure, AI ops, and clean logic.</i></p>
+  <p>
+    <i>"Via Negativa: The most elegant system is the one with the fewest moving parts."</i>
+  </p>
+  <br>
+</div>
+
+### <kbd>01. SYSTEM_OVERVIEW</kbd>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>IDENTITY_MODULE</h4>
+      <ul>
+        <li><b>ARCHITECT:</b> Samarth Bhatt[span_2](start_span)[span_2](end_span)</li>
+        <li><b>BASE:</b> Ahmedabad, India[span_3](start_span)[span_3](end_span)</li>
+        <li><b>EDUCATION:</b> MCA, GLS University (SGPA: 8.0)[span_4](start_span)[span_4](end_span)</li>
+        <li><b>FOCUS:</b> Web Platforms, MERN/PHP Infrastructure, GenAI Workflows[span_5](start_span)[span_5](end_span)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>CORE_STACK_MODULE</h4>
+      <ul>
+        <li><b>FRONTEND:</b> React 19, Next.js, Tailwind CSS[span_6](start_span)[span_6](end_span)</li>
+        <li><b>BACKEND:</b> Node.js, Express, PHP 8.2 (MVC), Python[span_7](start_span)[span_7](end_span)</li>
+        <li><b>DATABASES:</b> MongoDB, MySQL 8, Firebase Firestore[span_8](start_span)[span_8](end_span)</li>
+        <li><b>DEVOPS & AI:</b> n8n Automation (Certified), GCP, Gemini API[span_9](start_span)[span_9](end_span)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### <kbd>02. ACTIVE_DEPLOYMENTS (PRODUCTION)</kbd>
+
+<table width="100%">
+  <tr>
+    <th align="left">INSTANCE_NAME</th>
+    <th align="left">TECH_STACK</th>
+    <th align="left">METRICS / LOGIC</th>
+  </tr>
+  <tr>
+    <td><b><a href="#">[Debug-Dungeon]</a></b>[span_10](start_span)[span_10](end_span)</td>
+    <td><code>MERN</code> <code>Socket.io</code>[span_11](start_span)[span_11](end_span)</td>
+    <td>Gamified IDE with JWT-authenticated custom socket middleware and compound MongoDB indexing for zero-lag state management.[span_12](start_span)[span_12](end_span)</td>
+  </tr>
+  <tr>
+    <td><b><a href="#">[CarbonZero]</a></b>[span_13](start_span)[span_13](end_span)</td>
+    <td><code>React</code> <code>Firebase</code>[span_14](start_span)[span_14](end_span)</td>
+    <td>Serverless IPCC emission tracker featuring context-aware Gemini AI routing, DOMPurify XSS prevention, and strict Firestore security rules.[span_15](start_span)[span_15](end_span)</td>
+  </tr>
+  <tr>
+    <td><b><a href="#">[Schedule-Gen]</a></b>[span_16](start_span)[span_16](end_span)</td>
+    <td><code>PHP 8.2</code> <code>MySQL</code>[span_17](start_span)[span_17](end_span)</td>
+    <td>Automated university scheduling engine resolving complex structural DB constraints (CASCADE/RESTRICT) to output conflict-free data.[span_18](start_span)[span_18](end_span)</td>
+  </tr>
+</table>
+
+### <kbd>03. LIVE_TELEMETRY</kbd>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samarthrbhatt10&show_icons=true&theme=transparent&title_color=C4A47C&text_color=8b949e&icon_color=C4A47C&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthrbhatt10&layout=compact&theme=transparent&title_color=C4A47C&text_color=8b949e&hide_border=true" />
 </div>
 
 <br>
 
-<table width="100%" style="border-collapse: collapse; border: 1px solid #30363D;">
-  <tr style="background-color: #0D1117;">
-    <td width="55%" valign="top" style="padding: 20px; border-right: 1px solid #30363D;">
-      <h3 style="margin-top: 0;"><code>[01] CORE_ARCHITECTURE</code></h3>
-      <p style="color: #8B949E; font-size: 14px;">
+<div align="center">
+  <a href="mailto:samarthrbhatt10@gmail.com"><kbd>INITIATE_CONTACT</kbd></a>[span_19](start_span)[span_19](end_span) | 
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><kbd>LINKEDIN_PROFILE</kbd></a>[span_20](start_span)[span_20](end_span)
+</div>
         Operating at the intersection of robust engineering and visual precision. Specializing in highly scalable MERN architectures, PHP (MVC) data structures, and multi-agent AI automation.
       </p>
       <code>
