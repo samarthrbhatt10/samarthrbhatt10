@@ -207,8 +207,6 @@ I am a highly driven Software Engineer and Product Developer specializing in bri
 ---
 
 ## 🎯 Current Focus
-
-```yaml
 Current_Status:
   Learning: "Advanced Vector Databases, Multi-Modal LLM Fine-Tuning"
   Building: "Autonomous agent infrastructure & highly concurrent MERN backends"
@@ -220,7 +218,7 @@ div align="center">
 <a href="https://github.com/samarthrbhatt10"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/samarthrbhatt10"><img src="https://img.shields.io/badge/Portfolio-View_Work-8A2BE2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
-Connect With Me
+## Connect With Me
 <div align="center">
 <i>"True elegance in engineering is achieved not when there is nothing more to add, but when there is nothing left to take away."</i>
 <br /><br />
